@@ -23,6 +23,8 @@ body {
     background-color: var(--cr);
 }
 
+/* diseño del contenedor de la lista no ordenada */
+
 .navegacion {
     position: relative;
     width: 400px;
@@ -32,6 +34,8 @@ body {
     justify-content: center;
     border-radius: 10px;
 }
+
+/* diseño de la lista no ordenada y contenido */
 
 .navegacion ul {
     display: flex;
