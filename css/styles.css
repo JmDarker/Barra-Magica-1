@@ -1,3 +1,5 @@
+/* Se formatea todo el documento. */
+
 * {
     margin: 0;
     padding: 0;
@@ -5,9 +7,13 @@
     font-family: 'Poppins', sans-serif;
 }
 
+/* Código de color defecto que se escogió. */
+
 :root {
     --cr: #222327;
 }
+
+/* se da formato a cuerpo para diseño */
 
 body {
     display: flex;
